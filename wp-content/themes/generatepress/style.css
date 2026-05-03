@@ -1,0 +1,18 @@
+/*
+Theme Name: GeneratePress
+Author: Tom Usborne
+Version: 3.6.1
+Description: Optimized for Tailwind.
+*/
+/* --- MINIMAL FOOTER OVERRIDES --- */
+.site-footer { display: none !important; margin: 0 !important; padding: 0 !important; } 
+.site-info { display: none !important; }
+#page { margin-bottom: 0 !important; padding-bottom: 0 !important; }
+.site-content { margin-bottom: 0 !important; padding-bottom: 0 !important; }
+body { margin-bottom: 0 !important; }
+
+.minimal-footer {
+    background-color: #fafafa !important;
+    border-top: 1px solid #f1f5f9 !important;
+    margin-bottom: 0 !important;
+}
