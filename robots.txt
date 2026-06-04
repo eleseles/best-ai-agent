@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://bestaiagent.app/sitemap.xml
